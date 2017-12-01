@@ -124,7 +124,7 @@
 	*/
 		h1{
 			/*@editable*/color:#202020;
-			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-family: roboto, arial, Helvetica, Helvetica;
 			/*@editable*/font-size:26px;
 			/*@editable*/font-style:normal;
 			/*@editable*/font-weight:bold;
@@ -279,7 +279,7 @@
 	*/
 		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
 			/*@editable*/color:#202020;
-			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-family: roboto, arial, Helvetica, Helvetica;
 			/*@editable*/font-size:16px;
 			/*@editable*/line-height:150%;
 			/*@editable*/text-align:left;
@@ -586,21 +586,21 @@
                 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnButtonContentContainer" style="border-collapse: separate !important;border-radius: 3px;">
                     <tbody>
                         <tr>
-                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: arial; font-size: 16px; padding: 2px;">
+                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: roboto, arial, Helvetica, arial; font-size: 16px; padding: 2px;">
 
 <a class="mcnButton " title="Go to my account" href="https://app.asodesk.com" target="_blank" style="padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px;font-weight: bold;letter-spacing: normal;line-height: 30px;width:120px;text-align: center;text-decoration: none;background-color: #3f53a0;border-collapse: separate !important;border-radius: 10px;color: #FFFFFF;">Go to my account</a>
                             </td>
 
-                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: arial; font-size: 16px; padding: 2px;">
+                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: roboto, arial, Helvetica, arial; font-size: 16px; padding: 2px;">
 
 <a class="mcnButton " title="Schedule a Live Demo" href="" target="_blank" style="padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px;font-weight: bold;letter-spacing: normal;line-height: 30px;width:120px;text-align: center;text-decoration: none;background-color: #3f53a0;border-collapse: separate !important;border-radius: 10px;color: #FFFFFF;">Schedule a Live Demo</a>
                             </td>
 
-                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: arial; font-size: 16px; padding: 2px;">
+                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: roboto, arial, Helvetica, arial; font-size: 16px; padding: 2px;">
                                 <a class="mcnButton " title="Schedule a Live Demo" href="" target="_blank" style="padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:5px;font-weight: bold;letter-spacing: normal;line-height: 30px;width:120px;text-align: center;text-decoration: none;background-color: #3f53a0;border-collapse: separate !important;border-radius: 10px;color: #FFFFFF;">&nbsp; Apply for a trial</a>
                             </td>
 
-                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: arial; font-size: 16px; padding: 2px;">
+                            <td align="center" valign="middle" class="mcnButtonContent" style="font-family: roboto, arial, Helvetica, arial; font-size: 16px; padding: 2px;">
 
 <a class="mcnButton " title="Schedule a Live Demo" href="https://knowledge.asodesk.com/" target="_blank" style="padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px;font-weight: bold;letter-spacing: normal;line-height: 30px;width:120px;;text-align: center;text-decoration: none;background-color: #3f53a0;border-collapse: separate !important;border-radius: 10px;color: #FFFFFF;">Knowledge base</a>
                             </td>
@@ -648,14 +648,14 @@
                 <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
                     <tbody><tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
+                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px; font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
 
-                            <h1><span style="font-family:arial,helvetica neue,helvetica,sans-serif">Hey! We have&nbsp;some information for you before the trial starts.</span></h1>
+                            <h1><span style="font-family:roboto, arial, Helvetica, arial,helvetica neue,helvetica,sans-serif">Hey! We have&nbsp;some information for you before the trial starts.</span></h1>
 
 <div dir="ltr">
-<p style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Hi, {{contact.name}}.</p>
+<p style="font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Hi, {{contact.name}}.</p>
 
-<p style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Soon your trial period of our Business plan will start which means you will get these goodies:</p>
+<p style="font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Soon your trial period of our Business plan will start which means you will get these goodies:</p>
 
 <ul>
 	<li><span style="color:#167388"><strong>Unique</strong></span>&nbsp;ASO tool - Keyword Auto-Suggestions - <a href="https://knowledge.asodesk.com/quick-guide-to-asodesk/features/keyword-auto-suggestions" target="_blank"><span style="color:#0000CD">go to an article</span></a></li>
@@ -716,7 +716,7 @@
                 <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
                     <tbody><tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
+                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px; font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
 
                             <h1 class="mc-toc-title" style="text-align: center;">Where to start?</h1>
 
@@ -751,7 +751,7 @@
         </td>
     </tr>
     <tr>
-        <td class="mcnTextContent" valign="top" style="padding: 9px 18px;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: center;" width="546">
+        <td class="mcnTextContent" valign="top" style="padding: 9px 18px;color: #F2F2F2;font-family: roboto, arial, Helvetica, Helvetica;font-size: 14px;font-weight: normal;text-align: center;" width="546">
             <div style="text-align: left;"><br>
 <span style="font-size:18px"><strong>Quick Guide:</strong></span></div>
 
@@ -808,13 +808,13 @@
                 <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%; min-width:100%;" width="100%" class="mcnTextContentContainer">
                     <tbody><tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
+                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px; font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
 
-                            <p style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Yours sincerely,</p>
+                            <p style="font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Yours sincerely,</p>
 
-<p style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Your personal manager,</p>
+<p style="font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">Your personal manager,</p>
 
-<p style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><strong>{{profile.name}}</strong>.</p>
+<p style="font-family: roboto, arial, Helvetica, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><strong>{{profile.name}}</strong>.</p>
 
                         </td>
                     </tr>
